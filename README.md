@@ -1,1 +1,1 @@
-# comic hub
+# Comic Hub
